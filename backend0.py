@@ -1,2 +1,2 @@
-print("Pura doble p viejillo")
+print("La doble p original era Pepe Madero")
     
