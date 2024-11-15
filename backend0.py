@@ -1,2 +1,2 @@
-print("Hola mundo")
+print("Pura doble p viejillo")
     
